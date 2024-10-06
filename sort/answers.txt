@@ -1,0 +1,14 @@
+sort1 uses: Bubble sort
+
+How do you know?: Takes significantly shorter than sort3 to sort a pre-sorted list of data.
+This is because it has a smaller omega running time.
+
+sort2 uses: Merge Sort
+
+How do you know?: Takes significantly less time to sort random lists of data.
+
+
+sort3 uses: Selection sort
+
+How do you know?: Takes longer time to 'sort' a pre-sorted list of data,
+This is because it has a larger omega running time.
